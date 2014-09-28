@@ -1,0 +1,14 @@
+{
+	"category" : "Calculator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CalcEvaluator",
+	"pools" : [
+		 ],
+	"super" : "CalcGrammar",
+	"type" : "normal" }

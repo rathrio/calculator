@@ -1,0 +1,20 @@
+{
+	"category" : "Calculator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"add",
+		"prod",
+		"term",
+		"mul",
+		"prim",
+		"parens",
+		"number" ],
+	"name" : "CalcGrammar",
+	"pools" : [
+		 ],
+	"super" : "PPCompositeParser",
+	"type" : "normal" }
